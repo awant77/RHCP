@@ -1,7 +1,6 @@
 {
   "name": "learning-git-3",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "init-project": "nmp install",
